@@ -3,6 +3,7 @@ Hey there! 👋
 I'm Darrent Morgan
 
 About Me
+
 I'm Darrent Morgan, a passionate Software Engineer with a knack for coding, a terrible gamer (seriously, don't challenge me), a wannabe entrepreneur, and proudly a Flutter Google Developer Expert (GDE).
 
 Professional Journey: 
