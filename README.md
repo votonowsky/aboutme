@@ -23,8 +23,6 @@ I'm Darrent Morgan, a passionate Software Engineer with a knack for coding, a te
 - Sharing knowledge and insights with the Flutter community.
 
 ## Let's Connect!
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile)
-- [Twitter](https://twitter.com/your-twitter-handle)
-- [Personal Website/Blog](https://www.yourwebsite.com)
+will post my contacts a bit later here
 
 Feel free to explore my coding adventures, share a laugh about my gaming skills, or connect for exciting collaborations. Cheers to coding and dreams! 🚀
